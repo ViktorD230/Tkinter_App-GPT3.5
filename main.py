@@ -8,7 +8,6 @@ import pickle
 root = customtkinter. CTk()
 root.title("ChatGPT Bot")
 root.geometry('600x500')
-root.iconbitmap('openai_logo_icon_248315.ico')
 
 # Set Color Scheme
 customtkinter.set_appearance_mode("dark")
